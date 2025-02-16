@@ -1,0 +1,31 @@
+DATA = {
+    "Algorithm" : "A set of steps to solve a problem" ,
+    "Binary" : " A system using 0s and 1s" ,
+    "Compiler" : "Converts code into machine language" ,
+    "Data Structure" : "Organizes and stores data efficiently" ,
+    "Encryption" : "Secures data by encoding it" ,
+    "Function" : "A reusable code block" ,
+    "Graph" : "Nodes connected by edges" ,
+    "Hashing" : "Maps data to fixed-sized values" ,
+    "Iteration" : "Repeating a process" ,
+    "JSON" : "A lightweight data format" ,
+    "Kernel" : "Core of an operating system" ,
+    "Loop" : "Repeats a block of code" ,
+    "Machine Learning" :"AI that learns from the data" ,
+    "Node" : "A point in a data structure" ,
+    "OOP" : "Programming using objects" ,
+    "Protocol" : "Rules for data communication" ,
+    "Queue" : "FIFO data structure" ,
+    "Recursion" : "A function calling itself" ,
+    "Stack" : "LIFO data structure" ,
+    "Thread" : "A unit of execution" ,
+    "Unicode" : "Standard text encoding" ,
+    "Variable" : "Stores values in programming" ,
+    "Web Dev" : "Building websites" ,
+    "XML" : "Data structuring language" ,
+    "YAML" : "Human-readable data format" ,
+    "Zero-Day" : "Unpatched software flow" ,
+}
+a = input ("Say:")
+print(DATA[a])
+    
